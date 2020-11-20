@@ -7,8 +7,8 @@ venue: "UCLA iSchool"        # brief name of the institution that hosts the work
 address: "Online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
-latitude: "34.075240"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-118.444440"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "34.075520"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-118.441770"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "January 08, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00  am - 1:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-01-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
