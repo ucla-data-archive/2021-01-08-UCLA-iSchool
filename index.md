@@ -134,7 +134,7 @@ address.
 {% elsif begin_address contains "http" %}
 {% assign online = "true_public" %}
 {% else %}
-{% assign online = "false" %}
+{% assign online = "true" %}
 {% endif %}
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
